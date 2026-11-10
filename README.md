@@ -1,24 +1,26 @@
-# Between the Lines 🎧
+# Between the Lines
 
-**AI-Powered Spotify Playlist Generator Based on Lyrical Meaning**
+**An AI-powered Spotify playlist generator based on lyrical meaning and musical storytelling**
 
-Between the Lines is a web application that aims to generate personalized Spotify playlists based on a user's experiences, emotions, and personal situations.
+Between the Lines is a web application that generates personalized Spotify playlists based on a user's experiences, emotions, and personal situations.
 
-Instead of recommending songs based solely on genre, popularity, or musical similarity, Between the Lines focuses on **what songs are actually about**.
+Instead of recommending songs based solely on genre, popularity, or musical similarity, Between the Lines focuses on what songs are actually about.
 
-Users will be able to describe a situation in natural language, and the application will identify songs whose lyrics, narratives, and emotional themes closely reflect that experience.
+Users describe a situation, and the application identifies songs whose lyrics, narratives, and emotional themes reflect that experience.
+
+## Motivation
+
+The idea came to me while I was playing around with my Spotify playlists, trying to build one made of songs I could relate to, so that I wouldn't feel so alone. I thought of two songs, and then I got stuck.
+
+I had used Spotify's AI playlist feature before, but it only recommended songs with broadly similar themes, like love or loss, when I wanted something much more precise. Some of my playlists about very specific situations have collected a lot of likes on Spotify, which shows that this kind of playlist is wanted.
 
 ## How It Works
 
-The planned recommendation pipeline is:
-
-1. **Lyrics Analysis:** An AI model analyzes song lyrics to identify themes, emotions, narratives, relationship dynamics, and underlying meaning.
-2. **Scenario Understanding:** Users describe a personal experience, which is analyzed to extract its emotional and situational context.
+1. **Lyrics Analysis:** An AI model analyzes song lyrics to identify themes, emotions, narratives, relationship dynamics, and meaning.
+2. **Scenario Understanding:** Users describe a personal experience, which is then analyzed to extract its context.
 3. **Semantic Matching:** The application compares the user's scenario against the lyrical meaning of songs.
-4. **Playlist Ranking:** Matching songs are ranked according to their relevance to the user's experience.
-5. **Spotify Integration:** Users can generate and save their personalized playlists directly to Spotify.
-
-The goal is to recommend songs that don't just match how someone feels, but also **tell a story similar to their own**.
+4. **Playlist Ranking:** Matching songs are ranked by their relevance to the user's experience, and users can rate how well each song matches.
+5. **Spotify Integration:** Users can generate personalized playlists and save them directly to Spotify.
 
 ## Tech Stack
 
@@ -26,7 +28,7 @@ The goal is to recommend songs that don't just match how someone feels, but also
 |---|---|
 | Frontend | React, TypeScript, Vite |
 | Backend | Python, FastAPI (planned API endpoints) |
-| AI | Mistral Large 4 via NVIDIA API |
+| AI | Mistral Large 4 via the NVIDIA API |
 | AI Integration | OpenAI-compatible Python SDK |
 | Data Validation | Pydantic |
 | Data Storage | JSON (current prototype) |
@@ -43,16 +45,16 @@ The goal is to recommend songs that don't just match how someone feels, but also
 - Configured Python dependencies and environment variables.
 - Created a song catalog containing Spotify track metadata.
 
-**AI Lyrics Analyzer — Working**
-- Integrated Mistral Large 4 through NVIDIA's API.
+**AI Lyrics Analyzer (currently working on)**
+- Integrated Mistral Large 4 through the NVIDIA API.
 - Implemented AI-powered analysis of supplied song lyrics.
-- Extracts structured information including:
+- Extracts structured information, including:
   - Themes
   - Emotions
   - Narrative
   - Relationship dynamics
   - Lyrical meaning
-- Validates the AI-generated output using Pydantic.
+- Validates the AI-generated output with Pydantic.
 - Saves analyses to `data/song_themes.json`.
 - Replaces existing analyses with the same song ID to avoid duplicate entries.
 - Successfully tested the pipeline using original sample lyrics.
@@ -92,6 +94,13 @@ The goal is to recommend songs that don't just match how someone feels, but also
 - Create playlists in users' Spotify accounts.
 - Allow users to save generated recommendations.
 
+## Planned Features
+
+- Explanations with highlighted lyrics, where licensing permits (otherwise, a paraphrase of the lyrical connection)
+- Users can accept or reject songs, and their feedback is stored in a database to improve future recommendations
+- Music preferences: artists, language, genre, and era
+- Playlist progression: arrange songs to tell a story (for example, enemies to lovers)
+
 ## Project Structure
 
 ```text
@@ -104,6 +113,10 @@ playlist-generator/
 │   └── playlist_ranker.py
 ├── backend/
 │   ├── app/
+│   │   ├── api/
+│   │   ├── core/
+│   │   ├── models/
+│   │   ├── services/
 │   │   └── main.py
 │   └── requirements.txt
 ├── data/
@@ -126,13 +139,13 @@ playlist-generator/
 
 - Python 3.10+
 - Node.js and npm
-- NVIDIA API key with access to the selected Mistral model
+- An NVIDIA API key with access to the selected Mistral model
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/assiaelhallaoui/between-the-lines.git
-cd between-the-lines
+git clone https://github.com/assiaelhallaoui/playlist-generator.git
+cd playlist-generator
 ```
 
 ### 2. Set up the Python environment
@@ -152,7 +165,7 @@ NVIDIA_API_KEY=your_nvidia_api_key
 NVIDIA_MODEL=mistralai/mistral-large-4-1t-a52b
 ```
 
-Never commit API keys to version control.
+Never commit API keys to version control. Make sure `.env` is listed in `.gitignore`.
 
 ### 4. Test the lyrics analyzer
 
@@ -170,7 +183,7 @@ npm install
 npm run dev
 ```
 
-The frontend is currently a development scaffold; the complete playlist-generation interface is not yet implemented.
+The frontend is currently a development scaffold. The complete playlist-generation interface is not yet implemented.
 
 ## Example
 
@@ -185,7 +198,7 @@ Rather than returning any sad love song, the recommendation system would priorit
 ## Development Roadmap
 
 - [x] Initialize frontend and backend project structure
-- [x] Configure Mistral Large 4 through NVIDIA API
+- [x] Configure Mistral Large 4 through the NVIDIA API
 - [x] Implement AI lyrics analyzer
 - [x] Validate structured AI responses with Pydantic
 - [x] Store song analyses in JSON
@@ -205,10 +218,10 @@ Rather than returning any sad love song, the recommendation system would priorit
 
 The application is designed to analyze lyrics obtained from sources that explicitly authorize their use for AI processing.
 
-Spotify's Web API does not provide full song lyrics. The current prototype uses original sample lyrics for testing. Future integration with real song lyrics will require an appropriately licensed or authorized source.
+Spotify's Web API does not provide full song lyrics. The current prototype uses original sample lyrics for testing. Integrating real song lyrics will require an appropriately licensed or authorized source.
 
 ## Project Status
 
-**Active development — AI lyrics analysis prototype completed.**
+**Active development: AI lyrics analysis prototype completed.**
 
 The next milestone is implementing scenario analysis and semantic matching to connect users' personal experiences with the meaning of songs.
