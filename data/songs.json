@@ -1,0 +1,766 @@
+[
+  {
+    "id": "song_001",
+    "title": "Fashion Killa",
+    "artist": "A$AP Rocky",
+    "artists": [
+      "A$AP Rocky"
+    ],
+    "album": "LONG.LIVE.A$AP (Deluxe Version)",
+    "release_year": 2013,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "0O3TAouZE4vL9dM5SyxgvH",
+    "duration_ms": 236280,
+    "explicit": true
+  },
+  {
+    "id": "song_002",
+    "title": "butterflies.",
+    "artist": "Brent Faiyaz",
+    "artists": [
+      "Brent Faiyaz"
+    ],
+    "album": "Icon",
+    "release_year": 2026,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4jyyma8YdFC4S4llusSFRu",
+    "duration_ms": 248297,
+    "explicit": false
+  },
+  {
+    "id": "song_003",
+    "title": "Nomad",
+    "artist": "Clairo",
+    "artists": [
+      "Clairo"
+    ],
+    "album": "Charm",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4WJPxTsvWIdRZ9vMtqk7fj",
+    "duration_ms": 225572,
+    "explicit": false
+  },
+  {
+    "id": "song_004",
+    "title": "Sinking",
+    "artist": "Clairo",
+    "artists": [
+      "Clairo"
+    ],
+    "album": "Immunity",
+    "release_year": 2019,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2SUMIoX85glBKsVuu1vo20",
+    "duration_ms": 190000,
+    "explicit": false
+  },
+  {
+    "id": "song_005",
+    "title": "Don't Look Back In Anger",
+    "artist": "Oasis",
+    "artists": [
+      "Oasis"
+    ],
+    "album": "(What's The Story) Morning Glory?",
+    "release_year": 1995,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "7ppPZa3TRUSGKaks9wH7VT",
+    "duration_ms": 287826,
+    "explicit": false
+  },
+  {
+    "id": "song_006",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "artists": [
+      "Oasis"
+    ],
+    "album": "(What's The Story) Morning Glory?",
+    "release_year": 1995,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1qPbGZqppFwLwcBC1JQ6Vr",
+    "duration_ms": 258906,
+    "explicit": false
+  },
+  {
+    "id": "song_007",
+    "title": "Say It Ain't So",
+    "artist": "Weezer",
+    "artists": [
+      "Weezer"
+    ],
+    "album": "Weezer",
+    "release_year": 2004,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "56MEbUIvvfEEkLIl51wxGD",
+    "duration_ms": 258853,
+    "explicit": false
+  },
+  {
+    "id": "song_008",
+    "title": "High and Dry",
+    "artist": "Radiohead",
+    "artists": [
+      "Radiohead"
+    ],
+    "album": "The Bends",
+    "release_year": 1995,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2a1iMaoWQ5MnvLFBDv4qkf",
+    "duration_ms": 257480,
+    "explicit": false
+  },
+  {
+    "id": "song_009",
+    "title": "Moon (Feat. Bon Iver)",
+    "artist": "Daniel Caesar, Bon Iver",
+    "artists": [
+      "Daniel Caesar",
+      "Bon Iver"
+    ],
+    "album": "Moon",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2RBvwQI858xReQpWSRO866",
+    "duration_ms": 317000,
+    "explicit": false
+  },
+  {
+    "id": "song_010",
+    "title": "Weird Fishes / Arpeggi",
+    "artist": "Radiohead",
+    "artists": [
+      "Radiohead"
+    ],
+    "album": "In Rainbows",
+    "release_year": 2007,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4wajJ1o7jWIg62YqpkHC7S",
+    "duration_ms": 318186,
+    "explicit": false
+  },
+  {
+    "id": "song_011",
+    "title": "Dancing In The Flames",
+    "artist": "The Weeknd",
+    "artists": [
+      "The Weeknd"
+    ],
+    "album": "Dancing In The Flames",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "7z7kvUQGwlC6iOl7vMuAr9",
+    "duration_ms": 220036,
+    "explicit": false
+  },
+  {
+    "id": "song_012",
+    "title": "Superstar Sh*t",
+    "artist": "Dominic Fike",
+    "artists": [
+      "Dominic Fike"
+    ],
+    "album": "What Could Possibly Go Wrong",
+    "release_year": 2020,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "20j7l6tFtc5lynXpbOQg1O",
+    "duration_ms": 127054,
+    "explicit": false
+  },
+  {
+    "id": "song_013",
+    "title": "put my hoodie on",
+    "artist": "Effie",
+    "artists": [
+      "Effie"
+    ],
+    "album": "E",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5qgRXWcgFajtVeqt0t0ASo",
+    "duration_ms": 168175,
+    "explicit": false
+  },
+  {
+    "id": "song_014",
+    "title": "Note To Self",
+    "artist": "Jim-E Stack, Empress Of",
+    "artists": [
+      "Jim-E Stack",
+      "Empress Of"
+    ],
+    "album": "EPHEMERA",
+    "release_year": 2020,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "7xHap3EOHq2Qn8OQhCpfgW",
+    "duration_ms": 137092,
+    "explicit": false
+  },
+  {
+    "id": "song_015",
+    "title": "Bad Habit",
+    "artist": "Steve Lacy",
+    "artists": [
+      "Steve Lacy"
+    ],
+    "album": "Gemini Rights",
+    "release_year": 2022,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4k6Uh1HXdhtusDW5y8Gbvy",
+    "duration_ms": 232114,
+    "explicit": true
+  },
+  {
+    "id": "song_016",
+    "title": "Great Pretender",
+    "artist": "Dominic Fike",
+    "artists": [
+      "Dominic Fike"
+    ],
+    "album": "Rocket",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1pNEdS8LS4TKZgTSvfvl5C",
+    "duration_ms": 171741,
+    "explicit": false
+  },
+  {
+    "id": "song_017",
+    "title": "Bed Chem",
+    "artist": "Sabrina Carpenter",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "album": "Short n' Sweet",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1UHS8Rf6h5Ar3CDWRd3wjF",
+    "duration_ms": 171869,
+    "explicit": false
+  },
+  {
+    "id": "song_018",
+    "title": "Superpowers",
+    "artist": "Daniel Caesar",
+    "artists": [
+      "Daniel Caesar"
+    ],
+    "album": "NEVER ENOUGH",
+    "release_year": 2023,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "736PP5LTtREkDgktNmX3Gu",
+    "duration_ms": 174512,
+    "explicit": false
+  },
+  {
+    "id": "song_019",
+    "title": "Don’t Smile",
+    "artist": "Sabrina Carpenter",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "album": "Short n' Sweet",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "09LrGvT9KsACH66RHYMDyR",
+    "duration_ms": 206295,
+    "explicit": false
+  },
+  {
+    "id": "song_020",
+    "title": "Dancing In The Courthouse",
+    "artist": "Dominic Fike",
+    "artists": [
+      "Dominic Fike"
+    ],
+    "album": "Sunburn",
+    "release_year": 2023,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5fX8WljoAFrmFrFqahjz4Y",
+    "duration_ms": 157563,
+    "explicit": false
+  },
+  {
+    "id": "song_021",
+    "title": "Strawberry Fields Forever",
+    "artist": "The Beatles",
+    "artists": [
+      "The Beatles"
+    ],
+    "album": "Love",
+    "release_year": 2006,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1J7wMZrvCtWZlXBdMM25Ce",
+    "duration_ms": 271973,
+    "explicit": false
+  },
+  {
+    "id": "song_022",
+    "title": "Think Fast (feat. Weezer)",
+    "artist": "Dominic Fike, Weezer",
+    "artists": [
+      "Dominic Fike",
+      "Weezer"
+    ],
+    "album": "Sunburn",
+    "release_year": 2023,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4Z59a9hIn8EMsni3OiqGso",
+    "duration_ms": 222839,
+    "explicit": false
+  },
+  {
+    "id": "song_023",
+    "title": "THINGS YOU DO",
+    "artist": "Justin Bieber",
+    "artists": [
+      "Justin Bieber"
+    ],
+    "album": "SWAG",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1j8TmNa6vaFAEAws43kP0Q",
+    "duration_ms": 108386,
+    "explicit": false
+  },
+  {
+    "id": "song_024",
+    "title": "You Are The Best In My Life",
+    "artist": "Lee Hyun",
+    "artists": [
+      "Lee Hyun"
+    ],
+    "album": "LIVE ON UNPLUGGED - LEE HYUN",
+    "release_year": 2021,
+    "languages": [
+      "ko"
+    ],
+    "spotify_track_id": "3VqnJIGw02nEYGBSpsdNYi",
+    "duration_ms": 230934,
+    "explicit": false
+  },
+  {
+    "id": "song_025",
+    "title": "That's Life - 2008 Remastered",
+    "artist": "Frank Sinatra",
+    "artists": [
+      "Frank Sinatra"
+    ],
+    "album": "Nothing But The Best (2008 Remastered)",
+    "release_year": 2008,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4dt6XKr0xKdPzjFhwB8dBm",
+    "duration_ms": 187226,
+    "explicit": false
+  },
+  {
+    "id": "song_026",
+    "title": "Red Light",
+    "artist": "Kevin Abstract, Quadeca, Ameer Vann",
+    "artists": [
+      "Kevin Abstract",
+      "Quadeca",
+      "Ameer Vann"
+    ],
+    "album": "Blush",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4MSWocQxEUa19FOZr745LB",
+    "duration_ms": 188451,
+    "explicit": false
+  },
+  {
+    "id": "song_027",
+    "title": "Juna",
+    "artist": "Clairo",
+    "artists": [
+      "Clairo"
+    ],
+    "album": "Charm",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2mWfVxEo4xZYDaz0v7hYrN",
+    "duration_ms": 195109,
+    "explicit": false
+  },
+  {
+    "id": "song_028",
+    "title": "Roommates",
+    "artist": "Malcolm Todd",
+    "artists": [
+      "Malcolm Todd"
+    ],
+    "album": "Sweet Boy",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5vPUv0xziXbV4lnWeVNXNq",
+    "duration_ms": 214504,
+    "explicit": false
+  },
+  {
+    "id": "song_029",
+    "title": "Beaches",
+    "artist": "beabadoobee",
+    "artists": [
+      "beabadoobee"
+    ],
+    "album": "This Is How Tomorrow Moves",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1a19jsjG2DvbN1fVJonKUU",
+    "duration_ms": 230053,
+    "explicit": false
+  },
+  {
+    "id": "song_030",
+    "title": "How Much Is Weed?",
+    "artist": "Dominic Fike",
+    "artists": [
+      "Dominic Fike"
+    ],
+    "album": "Sunburn",
+    "release_year": 2023,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "44KWbTVZev3SWdv1t5UoYE",
+    "duration_ms": 125055,
+    "explicit": true
+  },
+  {
+    "id": "song_031",
+    "title": "Sunshine (feat. Fousheé)",
+    "artist": "Steve Lacy, Fousheé",
+    "artists": [
+      "Steve Lacy",
+      "Fousheé"
+    ],
+    "album": "Gemini Rights",
+    "release_year": 2022,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "14Q7Qja4PJwjMsKdBZcnww",
+    "duration_ms": 293428,
+    "explicit": false
+  },
+  {
+    "id": "song_032",
+    "title": "All I Need",
+    "artist": "Radiohead",
+    "artists": [
+      "Radiohead"
+    ],
+    "album": "In Rainbows",
+    "release_year": 2007,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5Qv2Nby1xTr9pQyjkrc94J",
+    "duration_ms": 228746,
+    "explicit": false
+  },
+  {
+    "id": "song_033",
+    "title": "In My Room",
+    "artist": "Julia Wolf",
+    "artists": [
+      "Julia Wolf"
+    ],
+    "album": "In My Room",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "79IgD1wf3xltQdDK3l5Why",
+    "duration_ms": 163874,
+    "explicit": false
+  },
+  {
+    "id": "song_034",
+    "title": "Atomic Vomit",
+    "artist": "Steve Lacy",
+    "artists": [
+      "Steve Lacy"
+    ],
+    "album": "The Lo-Fis",
+    "release_year": 2020,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "3YBfHJTZPHn5DqgMnD6g5g",
+    "duration_ms": 90000,
+    "explicit": false
+  },
+  {
+    "id": "song_035",
+    "title": "Sick Love",
+    "artist": "Red Hot Chili Peppers",
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "album": "The Getaway",
+    "release_year": 2016,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "6GsP3uMCd0Dn5T37C93waZ",
+    "duration_ms": 221440,
+    "explicit": false
+  },
+  {
+    "id": "song_036",
+    "title": "I Think I Left the Stove On",
+    "artist": "Hotel Ugly",
+    "artists": [
+      "Hotel Ugly"
+    ],
+    "album": "I Think I Left the Stove On",
+    "release_year": 2022,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "34HgIvucTKJvDgzHVMaGLG",
+    "duration_ms": 202490,
+    "explicit": false
+  },
+  {
+    "id": "song_037",
+    "title": "All Night",
+    "artist": "Men I Trust",
+    "artists": [
+      "Men I Trust"
+    ],
+    "album": "Oncle Jazz",
+    "release_year": 2019,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "0XvoMOI25j4wODyk8nuANS",
+    "duration_ms": 188468,
+    "explicit": false
+  },
+  {
+    "id": "song_038",
+    "title": "Sweet Dreams, TN",
+    "artist": "The Last Shadow Puppets",
+    "artists": [
+      "The Last Shadow Puppets"
+    ],
+    "album": "Everything You've Come To Expect (Deluxe Edition)",
+    "release_year": 2016,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1W0OCrMsRP1SLTEdw3JwEz",
+    "duration_ms": 236252,
+    "explicit": true
+  },
+  {
+    "id": "song_039",
+    "title": "Luna - 2011 Remaster",
+    "artist": "The Smashing Pumpkins",
+    "artists": [
+      "The Smashing Pumpkins"
+    ],
+    "album": "Siamese Dream (Deluxe Edition)",
+    "release_year": 1993,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5Q6Xzp25aXYxNJ4B6vBkcf",
+    "duration_ms": 202320,
+    "explicit": false
+  },
+  {
+    "id": "song_040",
+    "title": "Complicated",
+    "artist": "Avril Lavigne",
+    "artists": [
+      "Avril Lavigne"
+    ],
+    "album": "Let Go",
+    "release_year": 2002,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5xEM5hIgJ1jjgcEBfpkt2F",
+    "duration_ms": 244506,
+    "explicit": false
+  },
+  {
+    "id": "song_041",
+    "title": "instagram",
+    "artist": "DEAN",
+    "artists": [
+      "DEAN"
+    ],
+    "album": "instagram",
+    "release_year": 2017,
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "spotify_track_id": "6z1kLsntE7FuzKZHZWrXYN",
+    "duration_ms": 255728,
+    "explicit": false
+  },
+  {
+    "id": "song_042",
+    "title": "D (Half Moon)",
+    "artist": "DEAN, Gaeko",
+    "artists": [
+      "DEAN",
+      "Gaeko"
+    ],
+    "album": "130 Mood : TRBL",
+    "release_year": 2016,
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "spotify_track_id": "3uA8SjMyDtwtt0jLPMQbVD",
+    "duration_ms": 229359,
+    "explicit": false
+  },
+  {
+    "id": "song_043",
+    "title": "Jasmine",
+    "artist": "DPR LIVE",
+    "artists": [
+      "DPR LIVE"
+    ],
+    "album": "Jasmine",
+    "release_year": 2017,
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "spotify_track_id": "2IgbYlOlFpiSFYnsqB39lM",
+    "duration_ms": 201510,
+    "explicit": false
+  },
+  {
+    "id": "song_044",
+    "title": "Martini Blue",
+    "artist": "DPR LIVE",
+    "artists": [
+      "DPR LIVE"
+    ],
+    "album": "Her",
+    "release_year": 2017,
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "spotify_track_id": "7zDu3l7DDlfSlt20YMKkWo",
+    "duration_ms": 195204,
+    "explicit": false
+  },
+  {
+    "id": "song_045",
+    "title": "seasons",
+    "artist": "wave to earth",
+    "artists": [
+      "wave to earth"
+    ],
+    "album": "summer flows 0.02",
+    "release_year": 2020,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "0aVd7QiY8BstysHb62c5Fi",
+    "duration_ms": 256000,
+    "explicit": false
+  },
+  {
+    "id": "song_046",
+    "title": "bad",
+    "artist": "wave to earth",
+    "artists": [
+      "wave to earth"
+    ],
+    "album": "0.1 flaws and all.",
+    "release_year": 2023,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "6H67gFuycHyTOROX2M4bbs",
+    "duration_ms": 263250,
+    "explicit": false
+  },
+  {
+    "id": "song_047",
+    "title": "넘어와 (Feat. 백예린)",
+    "artist": "DEAN, Yerin Baek",
+    "artists": [
+      "DEAN",
+      "Yerin Baek"
+    ],
+    "album": "Limbo",
+    "release_year": 2017,
+    "languages": [
+      "ko"
+    ],
+    "spotify_track_id": "7LN1f9jAIu7yxBzsLMN7RB",
+    "duration_ms": 266137,
+    "explicit": false
+  }
+]

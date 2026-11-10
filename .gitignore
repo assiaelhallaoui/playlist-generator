@@ -1,0 +1,17 @@
+# API keys
+.env
+.env.*
+
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node.js
+node_modules/
+dist/
+
+# macOS
+.DS_Store

@@ -1,0 +1,31 @@
+[
+  {
+    "song_id": "test_001",
+    "analysis_source": "provided_lyrics",
+    "analysis": {
+      "themes": [
+        "regret",
+        "missed opportunities",
+        "unexpressed feelings",
+        "nostalgia",
+        "separation",
+        "lost time"
+      ],
+      "emotions": [
+        "regret",
+        "longing",
+        "melancholy",
+        "wistfulness",
+        "sorrow"
+      ],
+      "narrative": "A narrator reflects on a past connection where they wrote but never sent their feelings, while the other person moved on with someone else, leaving the narrator stuck replaying memories and wondering about lost time.",
+      "relationship_dynamics": [
+        "unrequited or unexpressed affection",
+        "communication failure",
+        "divergent life paths",
+        "one-sided emotional investment"
+      ],
+      "lyrical_meaning": "The lyrics explore the lasting pain of silence and hesitation in relationships, emphasizing how unspoken words can create permanent distance and leave behind a legacy of things never known."
+    }
+  }
+]
