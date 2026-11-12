@@ -43,7 +43,7 @@ MODEL = os.getenv(
 )
 
 
-# ========== DATA MODEL ==========
+# DATA MODEL 
 
 class SongAnalysis(BaseModel):
     themes: list[str]
@@ -53,7 +53,7 @@ class SongAnalysis(BaseModel):
     lyrical_meaning: str
 
 
-# ========== LYRICS ANALYSIS ==========
+# LYRICS ANALYSIS
 
 def analyze_lyrics(title: str, artist: str, lyrics: str) -> dict:
 
@@ -99,7 +99,7 @@ def analyze_lyrics(title: str, artist: str, lyrics: str) -> dict:
         stream=False
     )
 
-    # ========== RESPONSE HANDLING ==========
+    # RESPONSE HANDLING 
 
     choice = response.choices[0]
 
@@ -121,7 +121,7 @@ def analyze_lyrics(title: str, artist: str, lyrics: str) -> dict:
             f"Finish reason: {finish_reason}"
         )
 
-    # ========== CLEAN JSON ==========
+    # CLEAN JSON 
 
     clean_content = content.strip()
 
@@ -137,7 +137,7 @@ def analyze_lyrics(title: str, artist: str, lyrics: str) -> dict:
 
         clean_content = "\n".join(lines).strip()
 
-    # ========== VALIDATE JSON ==========
+    # VALIDATE JSON 
 
     try:
         parsed_json = json.loads(clean_content)

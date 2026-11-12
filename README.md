@@ -3,16 +3,16 @@
 **An AI-powered Spotify playlist generator based on lyrical meaning and musical storytelling**
 
 Between the Lines is a web application that generates personalized Spotify playlists based on a user's experiences, emotions, and personal situations.
-
 Instead of recommending songs based solely on genre, popularity, or musical similarity, Between the Lines focuses on what songs are actually about.
-
-Users describe a situation, and the application identifies songs whose lyrics, narratives, and emotional themes reflect that experience.
+Users describe a situation, and the application identifies songs whose lyrics, narratives, and emotional themes reflect that experience and outputs a curated playlist.
 
 ## Motivation
 
 The idea came to me while I was playing around with my Spotify playlists, trying to build one made of songs I could relate to, so that I wouldn't feel so alone. I thought of two songs, and then I got stuck.
 
 I had used Spotify's AI playlist feature before, but it only recommended songs with broadly similar themes, like love or loss, when I wanted something much more precise. Some of my playlists about very specific situations have collected a lot of likes on Spotify, which shows that this kind of playlist is wanted.
+
+The web application is meant to reflect an old-school record shop vibe where you go with an open heart to discover new music. 
 
 ## How It Works
 
@@ -65,6 +65,30 @@ I had used Spotify's AI playlist feature before, but it only recommended songs w
 - Accept a user's personal situation in natural language.
 - Extract emotions, themes, relationship dynamics, and narrative context.
 - Produce a structured representation for matching.
+
+exemple of scenario analyzer 
+scenario : I finally left a job that was destroying me, but I feel guilty and weirdly lost.
+output : 
+{
+  "themes": [
+    "liberation mixed with grief",
+    "identity loss after escape",
+    "guilt over self-preservation",
+    "toxic workplace aftermath",
+    "uncertain new beginnings"
+  ],
+  "emotions": [
+    "relief",
+    "guilt",
+    "disorientation",
+    "emptiness",
+    "anxiety",
+    "freedom"
+  ],
+  "narrative": "After enduring a workplace that severely damaged their mental health, they finally walked away from the toxic environment. Now, despite the physical relief of escape, they feel strangely guilty and unmoored, grappling with the loss of routine and identity that came with the job they once hated but also relied upon.",
+  "relationship_dynamics": "The tension exists between the individual and their former professional identity or colleagues, where leaving feels like both a necessary act of self-preservation and a betrayal of those still trapped in the same destructive system.",
+  "lyrical_meaning": "A song would need to explore the specific paradox of feeling guilty for surviving a toxic workplace, capturing the disorienting emptiness of freedom when your sense of purpose was tied to suffering, and the strange grief of leaving behind colleagues who are still enduring what you escaped."
+}
 
 **Semantic Song Matching**
 - Generate embeddings for song analyses and user scenarios.

@@ -1,0 +1,667 @@
+[
+  {
+    "id": "song_001",
+    "title": "Fashion Killa",
+    "artist": "A$AP Rocky",
+    "artists": [
+      "A$AP Rocky"
+    ],
+    "album": "LONG.LIVE.A$AP (Deluxe Version)",
+    "release_year": 2013,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "0O3TAouZE4vL9dM5SyxgvH",
+    "duration_ms": 236280,
+    "explicit": true,
+    "confidence": "high",
+    "themes": [
+      "fashion",
+      "luxury consumption",
+      "romantic admiration",
+      "style as identity",
+      "materialism"
+    ],
+    "emotions": [
+      "admiration",
+      "desire",
+      "confidence",
+      "pride"
+    ],
+    "narrative": "The song depicts a romantic relationship with a woman who is deeply immersed in high fashion, treating designer clothing and luxury brands as central to her identity and appeal. The narrator celebrates her impeccable style and the glamorous lifestyle associated with it, framing her passion for fashion as a defining and attractive quality.",
+    "relationship_dynamics": "The dynamic centers on a partner who is a dedicated fashion enthusiast, with the narrator admiring her style and the material world she inhabits, making her fashion sense a key element of their romantic connection.",
+    "lyrical_meaning": "The song explores how fashion functions as a language of attraction and status in modern relationships, suggesting that a partner's ability to dress well and embrace luxury is synonymous with their desirability and power.",
+    "key_details": [
+      "Explicit references to luxury designer brands and high-end clothing throughout both verses",
+      "Portrayal of a female partner whose identity and allure are closely tied to her fashion sense and material style",
+      "A guest verse from French Montana that continues the theme of luxury fashion and stylish living"
+    ]
+  },
+  {
+    "id": "song_002",
+    "title": "butterflies.",
+    "artist": "Brent Faiyaz",
+    "artists": [
+      "Brent Faiyaz"
+    ],
+    "album": "Icon",
+    "release_year": 2026,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4jyyma8YdFC4S4llusSFRu",
+    "duration_ms": 248297,
+    "explicit": false,
+    "confidence": "low",
+    "themes": [],
+    "emotions": [],
+    "narrative": "",
+    "relationship_dynamics": "",
+    "lyrical_meaning": "",
+    "key_details": []
+  },
+  {
+    "id": "song_003",
+    "title": "Nomad",
+    "artist": "Clairo",
+    "artists": [
+      "Clairo"
+    ],
+    "album": "Charm",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4WJPxTsvWIdRZ9vMtqk7fj",
+    "duration_ms": 225572,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "emotional restlessness",
+      "transient romance",
+      "impermanence",
+      "freedom vs. commitment",
+      "wandering"
+    ],
+    "emotions": [
+      "wistful",
+      "bittersweet",
+      "longing",
+      "melancholic",
+      "liberated"
+    ],
+    "narrative": "The song portrays a relationship with someone who is emotionally nomadic, constantly moving and unable to settle in one place or commit fully. The narrator reflects on the beauty and sadness of loving a person who is always preparing to leave, capturing a bond that is intense but destined to be temporary.",
+    "relationship_dynamics": "One partner is a free-spirited nomad who cannot stay put, while the other experiences the bittersweet reality of a love that is genuine but inherently impermanent.",
+    "lyrical_meaning": "The song uses the metaphor of nomadic wandering to explore a romance defined by impermanence, suggesting that some people are meant to be loved briefly as they pass through life rather than held onto forever.",
+    "key_details": [
+      "The song addresses a lover as a 'nomad' who is unable to stay in one place emotionally or physically",
+      "It contrasts the freedom of constant movement with the loneliness of never putting down roots",
+      "The narrator reflects on a passionate but transient connection with someone always on the verge of leaving"
+    ]
+  },
+  {
+    "id": "song_004",
+    "title": "Sinking",
+    "artist": "Clairo",
+    "artists": [
+      "Clairo"
+    ],
+    "album": "Immunity",
+    "release_year": 2019,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2SUMIoX85glBKsVuu1vo20",
+    "duration_ms": 190000,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "anxiety",
+      "emotional overwhelm",
+      "loss of control",
+      "vulnerability",
+      "internal struggle"
+    ],
+    "emotions": [
+      "anxious",
+      "overwhelmed",
+      "suffocated",
+      "heavy",
+      "trapped"
+    ],
+    "narrative": "The narrator experiences a moment of intense panic where they feel physically like they are sinking beneath the surface, unable to keep their head above water. This sensation represents being consumed by overwhelming emotions or circumstances that feel too heavy to bear, leaving them gasping and unable to find solid ground.",
+    "relationship_dynamics": "The song depicts an internal battle with oneself, where the narrator struggles against their own anxiety and overwhelming feelings rather than a conflict with another specific person.",
+    "lyrical_meaning": "The song uses the metaphor of sinking to capture the physical experience of anxiety and emotional collapse, illustrating how being overwhelmed can feel like drowning in your own thoughts with no way to surface.",
+    "key_details": [
+      "The narrator describes a physical sensation of drowning or sinking as a metaphor for being overwhelmed by anxiety",
+      "There is a recurring sense of being unable to stay afloat or escape the weight pressing down on them",
+      "The song contrasts a dreamy, floating musical atmosphere with lyrics about suffocating, heavy emotions"
+    ]
+  },
+  {
+    "id": "song_005",
+    "title": "Don't Look Back In Anger",
+    "artist": "Oasis",
+    "artists": [
+      "Oasis"
+    ],
+    "album": "(What's The Story) Morning Glory?",
+    "release_year": 1995,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "7ppPZa3TRUSGKaks9wH7VT",
+    "duration_ms": 287826,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "nostalgia",
+      "moving on",
+      "forgiveness",
+      "new beginnings",
+      "letting go"
+    ],
+    "emotions": [
+      "bittersweet",
+      "hopeful",
+      "reflective",
+      "liberating",
+      "wistful"
+    ],
+    "narrative": "The narrator reflects on the end of a meaningful relationship or chapter, recognizing that it is fading into memory but choosing to face forward rather than backward. They encourage starting anew with the break of day, free from the weight of past grievances.",
+    "relationship_dynamics": "Two people who have parted ways, with the narrator advocating for an amicable separation where neither party holds onto anger or regret about how things ended.",
+    "lyrical_meaning": "The song is really about choosing to remember the past with fondness rather than bitterness, recognizing that endings are natural and that clinging to anger only prevents a person from embracing the possibilities of the future.",
+    "key_details": [
+      "The song is built around a prominent piano melody rather than the band's typical guitar-driven sound, creating a gentle, reflective ballad atmosphere",
+      "The narrator acknowledges that a relationship or significant situation has ended and is slipping away into the past",
+      "The central message urges embracing a fresh start with the arrival of a new day rather than dwelling on what went wrong"
+    ]
+  },
+  {
+    "id": "song_006",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "artists": [
+      "Oasis"
+    ],
+    "album": "(What's The Story) Morning Glory?",
+    "release_year": 1995,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1qPbGZqppFwLwcBC1JQ6Vr",
+    "duration_ms": 258906,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "emotional salvation",
+      "romantic devotion",
+      "vulnerability",
+      "hope",
+      "dependency"
+    ],
+    "emotions": [
+      "yearning",
+      "hopeful",
+      "vulnerable",
+      "longing",
+      "grateful"
+    ],
+    "narrative": "The narrator confesses deep, unspoken feelings for someone and places their trust in that person becoming their savior. They envision the other as a protective force who will catch them when they fall and bring about a long-awaited breakthrough in their life.",
+    "relationship_dynamics": "The narrator positions themselves as emotionally dependent on the addressee, casting the other person as their potential savior and sole source of protection while acknowledging their own fragility.",
+    "lyrical_meaning": "The song explores the desperate hope that a loved one will act as a shield against despair and rescue the narrator from isolation, even when the narrator feels they have nothing left to offer in return.",
+    "key_details": [
+      "The narrator expresses the hope that the addressee will be the one to rescue them from their emotional struggles",
+      "The central metaphor casts the loved one as a protective barrier or wall against pain and hardship",
+      "The song anticipates a pivotal moment of change where the narrator's situation will finally improve"
+    ]
+  },
+  {
+    "id": "song_007",
+    "title": "Say It Ain't So",
+    "artist": "Weezer",
+    "artists": [
+      "Weezer"
+    ],
+    "album": "Weezer",
+    "release_year": 2004,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "56MEbUIvvfEEkLIl51wxGD",
+    "duration_ms": 258853,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "parental alcoholism",
+      "loss of innocence",
+      "family secrets",
+      "disillusionment",
+      "denial"
+    ],
+    "emotions": [
+      "shock",
+      "sadness",
+      "disappointment",
+      "fear",
+      "denial"
+    ],
+    "narrative": "The narrator comes home to find their father drinking alone in the kitchen and realizes he has a serious alcohol problem. This discovery shatters the narrator's childhood perception of their father as a strong, reliable figure. The narrator desperately wishes the situation were not true while coming to terms with the painful reality of their parent's addiction.",
+    "relationship_dynamics": "The song depicts a child confronting the hidden alcoholism of their father, creating a dynamic of painful disillusionment where the offspring must accept the parent's vulnerability and human flaws.",
+    "lyrical_meaning": "The song captures the moment of lost innocence when a child discovers their parent's struggle with alcoholism, using the father's drinking as a metaphor for the inevitable disappointment of realizing that adults are fallible and secretly suffering.",
+    "key_details": [
+      "The narrator discovers their father drinking alcohol alone in the kitchen at home",
+      "The repeated plea for the situation to be untrue expresses shock and denial about the father's alcoholism",
+      "The song contrasts the father's public role as a stable parent with his private struggle with addiction"
+    ]
+  },
+  {
+    "id": "song_008",
+    "title": "High and Dry",
+    "artist": "Radiohead",
+    "artists": [
+      "Radiohead"
+    ],
+    "album": "The Bends",
+    "release_year": 1995,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2a1iMaoWQ5MnvLFBDv4qkf",
+    "duration_ms": 257480,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "abandonment",
+      "emotional neglect",
+      "failed romance",
+      "vulnerability",
+      "betrayal"
+    ],
+    "emotions": [
+      "melancholy",
+      "resentment",
+      "sadness",
+      "isolation",
+      "disappointment"
+    ],
+    "narrative": "The song tells of a romantic relationship where the narrator was left stranded by a partner who failed to show up or provide emotional support, leaving them feeling abandoned and unsupported in a difficult situation.",
+    "relationship_dynamics": "A romantic partnership in which one person abandons or neglects the other, leaving them feeling stranded and without help when they needed it most.",
+    "lyrical_meaning": "The song uses the idiom of being left high and dry to express the acute pain of abandonment by someone close, highlighting how emotional absence can leave a person feeling discarded and helpless.",
+    "key_details": [
+      "The narrator describes being abandoned by a romantic partner who left them stranded without support or presence when needed",
+      "The song centers on the feeling of being left in a vulnerable position while the other person is absent or indifferent",
+      "The relationship is portrayed as one-sided, with the narrator feeling discarded after the other person withdrew emotionally"
+    ]
+  },
+  {
+    "id": "song_009",
+    "title": "Moon (Feat. Bon Iver)",
+    "artist": "Daniel Caesar, Bon Iver",
+    "artists": [
+      "Daniel Caesar",
+      "Bon Iver"
+    ],
+    "album": "Moon",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "2RBvwQI858xReQpWSRO866",
+    "duration_ms": 317000,
+    "explicit": false,
+    "confidence": "low",
+    "themes": [],
+    "emotions": [],
+    "narrative": "",
+    "relationship_dynamics": "",
+    "lyrical_meaning": "",
+    "key_details": []
+  },
+  {
+    "id": "song_010",
+    "title": "Weird Fishes / Arpeggi",
+    "artist": "Radiohead",
+    "artists": [
+      "Radiohead"
+    ],
+    "album": "In Rainbows",
+    "release_year": 2007,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4wajJ1o7jWIg62YqpkHC7S",
+    "duration_ms": 318186,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "being consumed",
+      "entrapment",
+      "strange relationships",
+      "survival",
+      "drowning"
+    ],
+    "emotions": [
+      "claustrophobic",
+      "intense",
+      "panicked",
+      "cathartic",
+      "overwhelmed"
+    ],
+    "narrative": "The narrator feels trapped and consumed by strange, threatening forces in their life, experiencing a sensation of drowning or being eaten alive until they hit bottom and face a moment of potential escape.",
+    "relationship_dynamics": "The narrator is being overwhelmed and devoured by another person or oppressive situation, feeling consumed by their presence or the dynamic between them.",
+    "lyrical_meaning": "The song metaphorically depicts the terror of being trapped and consumed by strange, predatory people or circumstances, using aquatic imagery to convey the feeling of drowning in a situation until reaching rock bottom.",
+    "key_details": [
+      "Dense, interlocking guitar arpeggios that create a swirling, hypnotic texture throughout the song",
+      "Imagery of being devoured or consumed while surrounded by strange, predatory figures",
+      "A driving rhythm section that builds to an intense climax about reaching a breaking point or bottom"
+    ]
+  },
+  {
+    "id": "song_011",
+    "title": "Dancing In The Flames",
+    "artist": "The Weeknd",
+    "artists": [
+      "The Weeknd"
+    ],
+    "album": "Dancing In The Flames",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "7z7kvUQGwlC6iOl7vMuAr9",
+    "duration_ms": 220036,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "toxic romance",
+      "destructive passion",
+      "self-destruction",
+      "addiction to love",
+      "burning desire",
+      "emotional chaos"
+    ],
+    "emotions": [
+      "intense longing",
+      "danger",
+      "recklessness",
+      "passion",
+      "consumption",
+      "heat"
+    ],
+    "narrative": "The narrator finds themselves in a volatile relationship that is metaphorically on fire, where the intensity of their connection burns destructively, yet instead of seeking safety, they choose to dance within the flames, embracing the chaos and damage as an inseparable part of the passion.",
+    "relationship_dynamics": "Two lovers are locked in a destructive cycle where their intense attraction and conflict burn them both, yet they remain entangled and willing to stay in the flames together rather than separate.",
+    "lyrical_meaning": "The song portrays a toxic romance as a dance in flames, where the heat of desire and conflict consumes the participants, and they willingly immerse themselves in the destruction instead of extinguishing it or walking away.",
+    "key_details": [
+      "The central metaphor of dancing in flames represents engaging in a destructive, burning relationship rather than escaping it",
+      "Fire imagery throughout symbolizes consuming passion, toxic conflict, or addiction that damages both parties",
+      "The narrator acknowledges the danger and destruction but chooses to remain immersed in the flames"
+    ]
+  },
+  {
+    "id": "song_012",
+    "title": "Superstar Sh*t",
+    "artist": "Dominic Fike",
+    "artists": [
+      "Dominic Fike"
+    ],
+    "album": "What Could Possibly Go Wrong",
+    "release_year": 2020,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "20j7l6tFtc5lynXpbOQg1O",
+    "duration_ms": 127054,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "celebrity culture",
+      "disillusionment with fame",
+      "superficial relationships",
+      "loss of authenticity",
+      "emptiness of status"
+    ],
+    "emotions": [
+      "cynical",
+      "weary",
+      "resigned",
+      "detached",
+      "defiant"
+    ],
+    "narrative": "The narrator observes the life of a superstar and sees through the glamour to the superficiality and self-interest that surrounds fame. He recognizes that the constant attention and adoration are often hollow, driven by status and personal gain rather than genuine human connection.",
+    "relationship_dynamics": "The dynamic between a famous individual and the public or industry figures who surround them, where relationships become transactional and people are attracted to the celebrity's status rather than who they actually are.",
+    "lyrical_meaning": "The song is really about the disillusionment that comes with fame, critiquing how celebrity culture turns human connections into opportunities for personal gain and leaves the superstar isolated despite the constant spotlight.",
+    "key_details": [
+      "The song contrasts the glamorous public image of stardom with the hollow, transactional reality behind the fame",
+      "It references how people are drawn to the celebrity for what they can get rather than genuine connection",
+      "The ironic title signals a cynical, dismissive attitude toward the 'superstar' lifestyle and its trappings"
+    ]
+  },
+  {
+    "id": "song_013",
+    "title": "put my hoodie on",
+    "artist": "Effie",
+    "artists": [
+      "Effie"
+    ],
+    "album": "E",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "5qgRXWcgFajtVeqt0t0ASo",
+    "duration_ms": 168175,
+    "explicit": false,
+    "confidence": "low",
+    "themes": [],
+    "emotions": [],
+    "narrative": "",
+    "relationship_dynamics": "",
+    "lyrical_meaning": "",
+    "key_details": []
+  },
+  {
+    "id": "song_014",
+    "title": "Note To Self",
+    "artist": "Jim-E Stack, Empress Of",
+    "artists": [
+      "Jim-E Stack",
+      "Empress Of"
+    ],
+    "album": "EPHEMERA",
+    "release_year": 2020,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "7xHap3EOHq2Qn8OQhCpfgW",
+    "duration_ms": 137092,
+    "explicit": false,
+    "confidence": "low",
+    "themes": [],
+    "emotions": [],
+    "narrative": "",
+    "relationship_dynamics": "",
+    "lyrical_meaning": "",
+    "key_details": []
+  },
+  {
+    "id": "song_015",
+    "title": "Bad Habit",
+    "artist": "Steve Lacy",
+    "artists": [
+      "Steve Lacy"
+    ],
+    "album": "Gemini Rights",
+    "release_year": 2022,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "4k6Uh1HXdhtusDW5y8Gbvy",
+    "duration_ms": 232114,
+    "explicit": true,
+    "confidence": "high",
+    "themes": [
+      "Toxic attachment",
+      "Late-night longing",
+      "Self-destructive patterns",
+      "Regret",
+      "Temptation"
+    ],
+    "emotions": [
+      "Longing",
+      "Regret",
+      "Desire",
+      "Inner conflict",
+      "Loneliness",
+      "Guilt"
+    ],
+    "narrative": "The singer confesses to repeatedly reaching out to a former lover in the early morning hours when he is intoxicated and alone, driven by habit and unresolved feelings. Despite knowing the relationship was damaging and that he shouldn't be doing it, he finds himself unable to resist the compulsive urge to reconnect.",
+    "relationship_dynamics": "The song depicts a cyclical, on-again-off-again dynamic between the narrator and an ex-partner, where the narrator repeatedly initiates contact despite recognizing the relationship is unhealthy, trapping himself in a pattern of self-sabotage.",
+    "lyrical_meaning": "The song uses the metaphor of a 'bad habit' to explore the compulsive, almost addictive urge to return to a toxic ex, highlighting the painful conflict between knowing something is bad for you and being powerless to stop yourself from doing it anyway.",
+    "key_details": [
+      "The narrator admits to calling an ex in the early morning hours (around 2 AM) when he is drunk and alone",
+      "He explicitly frames this behavior as a 'bad habit' that he knows is harmful to himself",
+      "The song contrasts his rational knowledge that he shouldn't contact this person with his inability to resist the urge"
+    ]
+  },
+  {
+    "id": "song_016",
+    "title": "Great Pretender",
+    "artist": "Dominic Fike",
+    "artists": [
+      "Dominic Fike"
+    ],
+    "album": "Rocket",
+    "release_year": 2025,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1pNEdS8LS4TKZgTSvfvl5C",
+    "duration_ms": 171741,
+    "explicit": false,
+    "confidence": "low",
+    "themes": [],
+    "emotions": [],
+    "narrative": "",
+    "relationship_dynamics": "",
+    "lyrical_meaning": "",
+    "key_details": []
+  },
+  {
+    "id": "song_017",
+    "title": "Bed Chem",
+    "artist": "Sabrina Carpenter",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "album": "Short n' Sweet",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "1UHS8Rf6h5Ar3CDWRd3wjF",
+    "duration_ms": 171869,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "Sexual chemistry",
+      "Physical intimacy",
+      "Desire",
+      "Romantic compatibility",
+      "Sensual attraction"
+    ],
+    "emotions": [
+      "Passionate",
+      "Sensual",
+      "Playful",
+      "Intense",
+      "Desirous"
+    ],
+    "narrative": "The song depicts two lovers celebrating the powerful physical and emotional spark they share during intimate moments, framing their attraction as a chemical reaction that is both intense and natural between them.",
+    "relationship_dynamics": "Romantic partners engaged in a passionate, physically charged relationship defined by strong mutual sexual chemistry and compatibility.",
+    "lyrical_meaning": "The song is really about the irresistible sexual chemistry between two people who are highly attracted to each other, using the metaphor of chemistry to describe how they connect and 'react' to one another in intimate settings.",
+    "key_details": [
+      "The song employs scientific and chemical metaphors to describe the physical attraction and compatibility between sexual partners",
+      "It centers on the intense, almost addictive 'reaction' that occurs between two people during intimate moments in bed",
+      "The narrator emphasizes how she and her partner have a natural, powerful chemistry that makes their physical connection feel inevitable"
+    ]
+  },
+  {
+    "id": "song_018",
+    "title": "Superpowers",
+    "artist": "Daniel Caesar",
+    "artists": [
+      "Daniel Caesar"
+    ],
+    "album": "NEVER ENOUGH",
+    "release_year": 2023,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "736PP5LTtREkDgktNmX3Gu",
+    "duration_ms": 174512,
+    "explicit": false,
+    "confidence": "high",
+    "themes": [
+      "Romantic obsession",
+      "Vulnerability in love",
+      "Power imbalance in relationships",
+      "Emotional exposure",
+      "Devotion"
+    ],
+    "emotions": [
+      "Infatuation",
+      "Awe",
+      "Surrender",
+      "Longing",
+      "Helplessness"
+    ],
+    "narrative": "The narrator sings about how his lover seems to possess supernatural abilities to read his mind and influence his feelings, leaving him feeling completely exposed and at her mercy. He describes a relationship where she holds all the emotional power, able to make him feel things he cannot control or hide.",
+    "relationship_dynamics": "A romantic partnership where one person holds complete emotional power over the other, who feels unable to conceal his thoughts or resist her influence.",
+    "lyrical_meaning": "The song uses the metaphor of superpowers to describe the overwhelming, almost uncontrollable effect that being in love has on the narrator, suggesting that his partner's ability to understand and affect him feels supernatural and leaves him completely vulnerable.",
+    "key_details": [
+      "The narrator describes his partner as having the ability to know his thoughts and feelings without him speaking",
+      "He feels completely exposed and powerless, as if she can see through his defenses and control his emotional state",
+      "The song frames romantic attraction as a kind of supernatural force that overwhelms his sense of control"
+    ]
+  },
+  {
+    "id": "song_019",
+    "title": "Don’t Smile",
+    "artist": "Sabrina Carpenter",
+    "artists": [
+      "Sabrina Carpenter"
+    ],
+    "album": "Short n' Sweet",
+    "release_year": 2024,
+    "languages": [
+      "en"
+    ],
+    "spotify_track_id": "09LrGvT9KsACH66RHYMDyR",
+    "duration_ms": 206295,
+    "explicit": false,
+    "confidence": "low",
+    "themes": [
+      "post-breakup",
+      "jealousy",
+      "unresolved feelings",
+      "emotional confrontation",
+      "moving on"
+    ],
+    "emotions": [
+      "hurt",
+      "jealousy",
+      "defiance",
+      "longing",
+      "vulnerability"
+    ],
+    "narrative": "After a breakup, the narrator encounters her ex who is smiling, either pretending to be happy or directing his attention toward someone else. She tells him not to smile, unable to bear seeing him appear content or indifferent while she is still processing the loss of their relationship.",
+    "relationship_dynamics": "Former romantic partners where one is attempting to move on or mask their pain with a smile while the other remains emotionally invested and hurt by the breakup.",
+    "lyrical_meaning": "The song uses the act of smiling as a symbol of emotional detachment or moving on, and the narrator's insistence that he not smile reveals her jealousy and pain at seeing him happy, suggesting she wishes he felt the same heartbreak she does.",
+    "key_details": [
+      "The narrator addresses an ex-partner who is smiling in a social setting after their breakup",
+      "The smile is interpreted as either fake happiness or him showing interest in someone new",
+      "The narrator demands he stop smiling, revealing her own lingering pain and jealousy"
+    ]
+  }
+]
